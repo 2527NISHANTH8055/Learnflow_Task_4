@@ -1,0 +1,2 @@
+# Learnflow_Task_4
+The objective of this project is to develop a model capable of recognizing and classifying human activities based on sensor data. Activities such as walking, running, sitting, and standing can be detected and classified from various sensor inputs, including accelerometers, gyroscopes, and magnetometers. Accurate activity recognition is essential for applications in healthcare, fitness tracking, and human-computer interaction.
